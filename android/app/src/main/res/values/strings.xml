@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_service_label">DeepLine 智能助手</string>
+    <string name="assistant_service_description">仅在你为某个 AI 启用「智能助手」并下达任务后工作：读取屏幕上可见的文字和控件，执行你授权的点击、输入、滚动、滑动、打开应用和网页等操作。发送、删除、发布、付款等敏感操作每次都会先征得你的同意；你可以随时在 DeepLine 中停止任务，或在此处关闭服务以撤销权限。</string>
+</resources>

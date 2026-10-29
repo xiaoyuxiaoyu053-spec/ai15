@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DeepLine" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/dl_window_bg</item>
+    </style>
+    <color name="dl_window_bg">#FFE9EDF2</color>
+</resources>
